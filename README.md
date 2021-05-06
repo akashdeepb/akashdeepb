@@ -1,16 +1,16 @@
-### Hi there 👋
+![if you can read this, it's sad cause gif didn't load](https://giphy.com/gifs/well-hqg-UY5NnctabOECc)
+### Well Well Well, since you're here 🕶
 
-<!--
-**akashdeepb/akashdeepb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_might as well read this stupid intro eh?_
+ - 🌝 you already know my name, it's like right there.
+ - 💻 I do code, but honestly mostly for fun, recently I've been working with Saajha along with UNICEF, Govt of Delhi and Maharashtra to help people in need (due to Covid) but generally working on improving Education and Schools.
+ - How I've helped? I've created APIs, Dashboards, Mobile Apps 📱, and yknow everytime you 📞 call any helpline you have that annoying robot?🤖 yeah, I've coded that as well (but this one is actually useful and not annoying :"D)
+ - 💡 Other than the above, I've also worked with Python, Java, Android, NodeJS and few other technologies. Yall can find few projects but trust me most of the projects are private (just like you, you sneaky sneaky)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Idk what else to write, let's get to know you_  
+Hit me up @_adb_1 on Instagram orrrrrrrr....  
+if you're the classic type, mail me at akashdeepb.cs17@sahyadri.edu.in 
+
+
+P.S. Sorry for that weird GIF.
