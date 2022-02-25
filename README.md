@@ -4,8 +4,11 @@
 
 _might as well read this stupid intro eh?_
  - 🌝 you already know my name, it's like right there.
- - 💻 I do code, but honestly mostly for fun, recently I've been working with Saajha along with UNICEF, Govt of Delhi and Maharashtra to help people in need (due to Covid) but generally working on improving Education and Schools.
- - How I've helped? I've created APIs, Dashboards, Mobile Apps 📱, and yknow everytime you 📞 call any helpline you have that annoying robot?🤖 yeah, I've coded that as well (but this one is actually useful and not annoying :"D)
+ - 💻 Worked with Saajha along with UNICEF, Govt of Delhi and Maharashtra to help people in need (due to Covid) with generalized work on improving Education and Schools. 
+ - 👮 Health Monitoring System of KARNATAKA STATE POLICE - API Developer
+ - 🚢 Workup Software for INDIAN COAST GUARD 
+ - 🫂 Community Work: GitHub Campus Expert, President @sosc, Google Developer Students Club Lead, Lead of NodeSchool, Tech Lead @Mozilla CC
+ - What I've created? I've created APIs, Dashboards, Mobile Apps 📱, and yknow everytime you 📞 call any helpline you have that annoying robot?🤖 yeah, I've coded that as well (but this one is actually useful and not annoying :"D)
  - 💡 Other than the above, I've also worked with Python, Java, Android, NodeJS and few other technologies. Yall can find few projects but trust me most of the projects are private (just like you, you sneaky sneaky)
  - 🧻 Also a cybersec enthusiast. PERIOD.
 
